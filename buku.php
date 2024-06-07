@@ -1,9 +1,6 @@
 <?php
-
 include_once ("./connect.php");
-
 $query = mysqli_query($db, "SELECT * FROM buku");
-
 ?>
 
 
