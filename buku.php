@@ -3,7 +3,7 @@ include_once ("./connect.php");
 $query = mysqli_query($db, "SELECT * FROM buku");
 ?>
 
-
+<!-- Aditya Daffa Syahputra-->
 
 <!DOCTYPE html>
 <html lang="en">
